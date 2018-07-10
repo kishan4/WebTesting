@@ -1,0 +1,17 @@
+package com.BasicJava;
+
+public class Emp
+{
+		int eid;
+		String ename;
+		float esal;
+		
+		
+	public static void main(String[] args) {
+		
+		
+			}
+		
+	}
+
+
